@@ -1,0 +1,28 @@
+name: HugoThysse
+favicon: null
+layout_spectrum: 0.9203630010597408
+typography_spectrum: 0.975732603808865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5436966333072633
+  lightness: 0.9254501576069742
+  saturation: 0.9329623314552009
+  rhythmicContrast: 0.3950359693262726
+purpose: []
